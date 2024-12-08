@@ -1,7 +1,7 @@
-## ECE1512_ProjectB_PartA: VMamba,Visual State Space Model Implementation
+## ECE1512_ProjectB_PartA: Extending the Mamba architecture to process 2D visual sequences
 
 ## Overview
-This repository implements a version of **VMamba**, a visual state-space model inspired by the paper *"VMamba: Visual State Space Model"*. This project focuses on extending the VMamba architecture to process 2D visual sequences efficiently, showcasing its performance on benchmark datasets such as CIFAR-10.
+A visual state-space model inspired by the paper *"VMamba: Visual State Space Model"*. This project focuses on extending the VMamba architecture to process 2D visual sequences efficiently, showcasing its performance on benchmark datasets such as CIFAR-10.
 
 ## Features
 - **Stem and Block Design**:
