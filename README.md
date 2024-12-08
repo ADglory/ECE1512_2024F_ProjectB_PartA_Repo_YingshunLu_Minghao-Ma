@@ -1,1 +1,1 @@
-# ECE1512_2024F_ProjectB_PartA_Repo_YingshunLu_Minghao-Ma-Part-A
+# ECE1512_2024F_ProjectB_PartA_Repo_YingshunLu_Minghao-Ma
